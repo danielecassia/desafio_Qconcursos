@@ -21,15 +21,26 @@ question_list_json = JSON.parse(file, object_class:OpenStruct)
 
 ## Configuração para Desenvolvimento
 
- Instale o Bundler
+ Instale as depemdêcias
 ```sh	
-gem install bundler	
+install bundler	
 ```	
 Para executar o arquivo
 ```sh
 ruby arquivo.rb
 ```	
 
+## Configuração Docker
+
+ Disciplinas mais acessadas
+```sh	
+docker run danielecassia/discipline:v1 		
+```	
+Acesso por período
+```sh
+docker run danielecassia/question:v1 		
+
+```	
 
 ## Meta	
 Daniele Cassia – danielecassia9@gmail.com	<br>
