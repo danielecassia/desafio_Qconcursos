@@ -30,6 +30,17 @@ Para executar o arquivo
 ruby arquivo.rb
 ```	
 
+## Configuração Docker
+
+ Disciplinas mais acessadas
+```sh	
+docker run danielecassia/discipline:v1 		
+```	
+Acesso por período
+```sh
+docker run danielecassia/question:v1 		
+
+```	
 
 ## Meta	
 Daniele Cassia – danielecassia9@gmail.com	<br>
