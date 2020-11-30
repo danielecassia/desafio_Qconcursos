@@ -34,11 +34,11 @@ ruby arquivo.rb
 
  Disciplinas mais acessadas
 ```sh	
-docker run danielecassia/discipline:v1 		
+docker run danielecassia/discipline 		
 ```	
 Acesso por período
 ```sh
-docker run danielecassia/question:v1 		
+docker run danielecassia/question 		
 
 ```	
 
