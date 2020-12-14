@@ -21,7 +21,7 @@ question_list_json = JSON.parse(file, object_class:OpenStruct)
 
 ## Configuração para Desenvolvimento
 
- Instale as depemdêcias
+ Instale as dependêcias
 ```sh	
 install bundler	
 ```	
